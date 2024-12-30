@@ -1,0 +1,17 @@
+#ingresar-button { 
+    background: #ff8005 !important;
+    border: none;
+    width: 100px !important;
+}
+
+.recuperar-contraseña {
+    display: flex;
+    justify-content: flex-end;
+    width: 95%;
+}
+
+.recuperar-contraseña-text {
+    color: #6e6b7b;
+    font-weight: bold;
+    font-size: 12px;
+}

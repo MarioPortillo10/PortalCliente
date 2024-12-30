@@ -1,0 +1,25 @@
+.card {
+    border-radius: 20px;
+  }
+
+.btn {
+    border-radius: 15px;
+}
+
+.form-control {
+    border-radius: 20px;
+}
+
+#btn-gold {
+    border-color: #f6a454 !important;
+    background-color: #f6a454 !important;
+}
+
+.form-select {
+    border-radius: 20px;
+}
+
+#card-filtros {
+    background: #f4f9ff;
+    box-shadow: none;
+}

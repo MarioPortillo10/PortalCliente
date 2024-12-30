@@ -1,0 +1,46 @@
+.nav-bar-vertical {
+    position: absolute;
+    height: 90%;
+    top: 5%;
+    left: 1%;
+    background: #ffffff00;
+}
+
+.logo-menu-almapac {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%
+}
+.list-menu {
+    
+}
+/* .list-menu ul li:first-child, .list-menu
+ul li:last-child {
+  border-bottom: 1px solid rgb(255, 255, 255);
+  width: 50%;
+  margin: 0 auto;
+  box-sizing: border-box;
+} */
+
+/* ul li:first-child {
+    border-bottom: 2px solid rgb(255, 255, 255);
+    width: 30%;
+  } */
+
+  .container-menu {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    flex-direction: column;
+    padding-left: 20px;
+  }
+  
+  .separador {
+    width: 40%;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px 0px 10px 0px;
+    /* margin: auto; */
+  }

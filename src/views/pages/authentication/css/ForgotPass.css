@@ -1,0 +1,47 @@
+#contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+    border-radius: 50px;
+    width: 400px;
+    background: linear-gradient(to top, rgb(180, 217, 255), rgb(236, 246, 255));
+}
+
+#alineacion-fila {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#contenido-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.recuperar-contraseña {
+    display: flex;
+    justify-content: flex-end;
+    width: 95%;
+}
+
+.recuperar-contraseña-text {
+    color: #6e6b7b;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#enviar-button { 
+    background: #ff8005 !important;
+    border: none;
+    width: 100px !important;
+}
